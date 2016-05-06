@@ -1,0 +1,3 @@
+[submodule "ebsp"]
+	path = ext/ebsp
+	url = http://github.com/coduin/epiphany-bsp
