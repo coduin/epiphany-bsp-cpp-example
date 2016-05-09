@@ -7,4 +7,8 @@ This example depends on Epiphany BSP, which is included as a Git submodule. Use
     git submodule init
     git submodule update --remote
 
-The program can then be built by issuing `$ make` from the command-line.
+The program can then be built by issuing 
+
+    make
+
+from the command-line.
